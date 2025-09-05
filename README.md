@@ -1,2 +1,1 @@
-# Axia-Data-Analysis-Python-Assignment
-Sales Dataset Analysis
+# Axia-Data-Analysis-Assignments
